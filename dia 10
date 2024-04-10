@@ -1,0 +1,62 @@
+Aula dia 10/04
+
+- Matricula
+setor Aluno:
+-Nome completo
+-numero de rg
+-numero de cpf
+-comprovante de residencia
+-data de nascimento
+
+Setor curso:
+- Curso de matricula
+- carga horaria
+- professores
+- matérias
+- horas complementares
+- Salas
+- turno 
+
+Setor Disciplina:
+carga horaria
+professor
+Controle de presença
+Notas
+Exame
+
+- Biblioteca
+
+- Nome do livro
+- Codigo do livro
+- data de aquisição
+- data de devolução // joga esses dados para o aluno cadastrado
+- cadastro do aluno feito com{
+- Nome do aluno
+- rg do aluno
+- endereço
+- número para contato
+}
+
+
+- Restaurante
+
+- Cadastro do aluno 
+- Cardápio
+- Numero de pratos
+- Número de talheres
+- quantidade de alunos
+- numero de refeições de alunos
+- número de refeições para pessoas de fora
+- total de refeições
+
+- Tesouraria
+
+- Pagamentos e recebimentos
+- cadastros  de  taxas para matriculas,deferimento de historico escolar,preço por prato de alunos e pessoas de fora do r.u, certificado de conclusão de curso,
+- Cadastro de contas em geral:
+- Funcionarios
+- Luz, agua
+- reforma
+- bolsa
+
+
